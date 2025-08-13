@@ -7,4 +7,4 @@ This repository contains a selection of my design and art direction projects, in
 - Digital and print design projects
 - Creative concepts for marketing and advertising
 
-For more work, visit my full portfolio: [link a tu Behance o web]
+For more work, visit my full portfolio: www.behance.net/javierjensen
