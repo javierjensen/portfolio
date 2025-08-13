@@ -8,7 +8,7 @@ For the full portfolio, please visit: [Behance](https://behance.net/javierjensen
 
 ## 🖼 Preview
 
-![Portfolio Preview](images/preview.jpg)  
+![Portfolio Preview](https://raw.githubusercontent.com/javierjensen/portfolio/main/preview.jpg)  
 *A glimpse of my work – full case studies available on Behance.*
 
 ---
