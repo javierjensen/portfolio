@@ -1,9 +1,10 @@
-# 🎨 Javier Jensen – Graphic Design & Art Direction Portfolio
+# 🎨 Javier Jensen – Senior Art Director — Branding, Identity & Visual Systems
 
-Welcome to my design portfolio.  
-This is a preview of selected works in branding, campaigns, and illustration.  
-For the full portfolio, please visit: [Behance](https://behance.net/javierjensen)
+Este repositorio funciona como un punto de entrada curado a mi trabajo en diseño.
+Mi experiencia se centra en branding, identidad visual y sistemas de marca, con proyectos que abarcan campañas y productos digitales en distintos contextos y escalas.
 
+Portafolio completo y casos de estudio:
+https://behance.net/javierjensen
 ---
 
 ## 🖼 Preview
@@ -15,16 +16,21 @@ For the full portfolio, please visit: [Behance](https://behance.net/javierjensen
 
 ## 📌 Highlights
 
-- Branding & visual identity for global brands
-- Digital and print design for marketing campaigns
-- Creative concepts for advertising
-- Illustration & conceptual artwork
+Branding e identidad visual
+
+Sistemas de marca y dirección visual
+
+Campañas publicitarias
+
+Diseño digital y editorial
+
+Ilustración y trabajo conceptual
 
 ---
 
 ## 🌐 Full Portfolio
 
-📎 **[View my full portfolio on Behance](https://behance.net/javierjensen)**
+📎 **[Ver mi portafolio en Behance](https://behance.net/javierjensen)**
 
 ---
 
