@@ -16,19 +16,18 @@ https://behance.net/javierjensen
 
 ## 📌 Highlights
 
-Branding e identidad visual
-
-Sistemas de marca y dirección visual
-
-Campañas publicitarias
-
-Diseño digital y editorial
-
-Ilustración y trabajo conceptual
-
+- Branding & visual systems  
+- Concept development  
+- Digital-first campaigns  
+- Art direction & visual storytelling  
+- Adobe Creative Suite  
+- Generative & AI-assisted tools
+   
 ---
 
-## 🌐 Full Portfolio
+Interesado en cómo los sistemas de marca se adaptan a productos digitales, métricas y flujos de trabajo técnicos.
+
+## 🌐 Portafolio
 
 📎 **[Ver mi portafolio en Behance](https://behance.net/javierjensen)**
 
