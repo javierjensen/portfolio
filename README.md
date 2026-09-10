@@ -1,9 +1,10 @@
 # 🎨 Javier Jensen – Senior Art Director — Branding, Identity & Visual Systems
 
-Este repositorio funciona como un punto de entrada curado a mi trabajo en diseño.
-Mi experiencia se centra en branding, identidad visual y sistemas de marca, con proyectos que abarcan campañas y productos digitales en distintos contextos y escalas.
+This repository serves as a curated entry point to my design work.
 
-Portafolio completo y casos de estudio:
+My experience focuses on branding, visual identity, and brand systems, with projects spanning campaigns and digital products across different contexts and scales.
+
+Full portfolio and case studies:
 https://behance.net/javierjensen
 ---
 
@@ -25,7 +26,7 @@ https://behance.net/javierjensen
    
 ---
 
-Interesado en cómo los sistemas de marca se adaptan a productos digitales, métricas y flujos de trabajo técnicos.
+Interested in how brand systems adapt to digital products, metrics, and technical workflows.
 
 ## 🌐 Portafolio
 
